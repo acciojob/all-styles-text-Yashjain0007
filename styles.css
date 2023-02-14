@@ -3,9 +3,9 @@
 div{
 	width: 200px;
 	background-color: purple;
-	left-border: green;
-	border-left-width: 5px;
-	padding:10px;
+	border-left: green solid 5px;
 	font-size: 20px;
+	padding: 10px;
 	color: white;
+	
 }
